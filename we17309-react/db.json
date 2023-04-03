@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2",
+      "desc": "Description 2",
+      "image": "https://picsum.photos/150/150 "
+    },
+    {
+      "id": 3,
+      "name": "new product",
+      "desc": "Description 3",
+      "image": "https://picsum.photos/150/150 "
+    },
+    {
+      "id": 4,
+      "name": "Product 4",
+      "desc": "ddang lam phaanf add",
+      "image": "https://picsum.photos/150/150 "
+    }
+  ]
+}
